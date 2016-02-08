@@ -1173,6 +1173,14 @@ a:visited {
   background-image: url("../assets/img/being-young-cover.png");
 }
 
+#mc-glaser-card {
+  background-image: url("../assets/img/mc-glaser.jpg");
+}
+
+#mc-glaser-cover {
+  background-image: url("../assets/img/mc-glaser-cover.jpg");
+}
+
 
 .view-profile-div {
   position: absolute;
